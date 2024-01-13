@@ -1,3 +1,6 @@
 data/csv/s2_full_figures_oa_nonroco_combined_medical_top4_public.csv
 data/json
 images/
+resized_images/
+grayscale_images/
+normalized_images/
