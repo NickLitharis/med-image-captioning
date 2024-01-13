@@ -16,11 +16,11 @@
     - [x] Getting a sample of 100 images and captions.
     - [x] Creating a new CSV file with the sample. 
 
-- [ ] **Image Processing**: 
-    - [ ] Standardization, 
-        - [ ] write function to find the images in the folder and move them into new directory
-    - [ ] normalization, 
-    - [ ] possibly resizing.
+- [x] **Image Processing**: 
+    - [x] Standardization, 
+        - [x] write function to find the images in the folder and move them into new directory
+    - [x] normalization, 
+    - [x] possibly resizing.
 - [ ] **Text Processing**: 
     - [ ] Caption cleaning,
     - [ ] Tokenization, 
