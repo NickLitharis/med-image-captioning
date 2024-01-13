@@ -18,6 +18,7 @@
 
 - [ ] **Image Processing**: 
     - [ ] Standardization, 
+        - [ ] write function to find the images in the folder and move them into new directory
     - [ ] normalization, 
     - [ ] possibly resizing.
 - [ ] **Text Processing**: 
