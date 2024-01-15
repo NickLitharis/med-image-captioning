@@ -22,9 +22,11 @@
     - [x] normalization, 
     - [x] possibly resizing.
 - [ ] **Text Processing**: 
-    - [ ] Caption cleaning,
-    - [ ] Tokenization, 
-    - [ ] vocabulary creation, 
+    - [x] Caption cleaning,
+    - [x] Tokenization, 
+    - [x] vocabulary creation,
+    - [x] encoding,
+    - [ ] sequence padding, 
     - [ ] possibly using medical lexicons for accuracy.
 
 #### Image Processing
