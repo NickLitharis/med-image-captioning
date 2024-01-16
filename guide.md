@@ -21,13 +21,6 @@
         - [x] write function to find the images in the folder and move them into new directory
     - [x] normalization, 
     - [x] possibly resizing.
-- [ ] **Text Processing**: 
-    - [x] Caption cleaning,
-    - [x] Tokenization, 
-    - [x] vocabulary creation,
-    - [x] encoding,
-    - [ ] sequence padding, 
-    - [ ] possibly using medical lexicons for accuracy.
 
 #### Image Processing
 1. **Standardization**: This involves ensuring that all images have a consistent format and type. For medical images, this could mean converting all images to the same scale (e.g., grayscale) and ensuring they are in a standard format like DICOM, JPEG, or PNG.
@@ -37,6 +30,15 @@
 3. **Resizing**: Depending on the model architecture, you might need to resize images to a specific dimension. For CNNs, having a uniform input size is important. However, resizing must be done carefully to avoid losing important details.
 
 5. **Handling Special Cases**: Medical images might have unique characteristics like varying levels of contrast or artifacts. Special preprocessing steps might be needed to handle these cases.
+
+- [x] **Text Processing**: 
+    - [x] Caption cleaning,
+    - [x] Tokenization, 
+    - [x] vocabulary creation,
+    - [x] encoding,
+    - [x] sequence padding, 
+    - [x] possibly using medical lexicons for accuracy.
+
 
 #### Text Processing
 1. **Tokenization**: This involves converting the text captions into tokens (words or characters). It's the first step in preparing text for input into an NLP model.
@@ -51,46 +53,50 @@
 
 6. **Handling Special Characters**: Medical texts might include special characters or notations that need special handling.
 
-#### Special Considerations for Medical Data
-- **Data Quality**: Ensure that the data is of high quality and representative of the various cases you want your model to handle.
-- **Clinical Relevance**: Any preprocessing step should not remove or alter clinically relevant information.
-- **Ethical Considerations**: Ensure patient privacy is maintained, especially when handling patient data.
+- COMPLETED: 16/01/2024
+
+### 4. Build the Model
+
+#### 4.1 Define the Architecture
+
+1. **Input Layer**: 
+   - Your input layer should be designed to accept sequences of a fixed length (the length you chose during padding).
+   - If you're using word embeddings, the input dimension should match the size of your vocabulary (plus one for padding).
+
+2. **Embedding Layer** (optional, but recommended for text data):
+   - An Embedding layer is used to convert integer encodings of words into dense vectors of fixed size. 
+   - If you're using pre-trained word embeddings (like GloVe or Word2Vec), this layer can be initialized with these weights.
+   - The output dimension of the Embedding layer should be set according to the size of the word embeddings.
+
+3. **CNN Layer(s)**:
+   - Convolutional layers are used to extract spatial features. In the context of text, they can capture patterns in sequences of word embeddings.
+   - Key parameters include the number of filters, kernel size, stride, and padding. For text, kernels might span multiple words (e.g., a kernel size of 3 or 5).
+   - You can stack multiple CNN layers or use different kernel sizes to capture different textual features.
+
+4. **Pooling Layer(s)**:
+   - Pooling (usually MaxPooling) is used to reduce the dimensionality of the data and to extract the most significant features from the output of the convolutional layers.
+   - Pooling size and strides need to be chosen. Often, a size of 2 is used.
+
+5. **RNN/LSTM Layer(s)**:
+   - After the CNN layers, you'll add RNN or LSTM layers. LSTMs are preferred for their ability to capture long-term dependencies and avoid vanishing gradient problems.
+   - Key parameters include the number of LSTM units and whether to use bidirectional LSTMs.
+   - You might add one or more LSTM layers depending on the complexity of your task.
+
+6. **Dense Layer(s)**:
+   - After the LSTM layers, you typically add one or more Dense (fully connected) layers.
+   - The number of neurons and activation functions in these layers depend on the specific task (e.g., a softmax activation for classification).
+
+7. **Output Layer**:
+   - The output layer should be designed according to your specific task (e.g., number of classes for classification).
+   - Common activation functions include softmax for multi-class classification or sigmoid for binary classification.
+
+#### 4.2 Compilation
+
+- **Loss Function**: Choose a loss function that corresponds to your task, like categorical_crossentropy for multi-class classification or binary_crossentropy for binary classification.
+- **Optimizer**: Common choices include Adam, SGD, or RMSprop. Each optimizer has its own advantages and can be tuned further.
+- **Metrics**: Choose metrics relevant to your task, like accuracy for classification tasks.
 
 
-### 4. Model Selection
-- **Architecture**: Typically a combination of CNN (Convolutional Neural Network) for image analysis and RNN/LSTM (Recurrent Neural Network/Long Short-Term Memory) for text generation. Transformer-based models like Vision Transformers (ViT) for images and BERT/GPT for text can also be used.
-- **Framework**: TensorFlow, PyTorch, or similar.
-
-Analyzing step 4, which involves model selection for medical image captioning, requires careful consideration of the specific demands of the task. This step is critical because the architecture you choose will significantly impact the performance and accuracy of your model. Here are the key aspects:
-
-#### Model Architecture
-1. **Combination of CNN and RNN/LSTM**:
-    - **CNN (Convolutional Neural Network)**: Used for extracting features from images. Popular CNN architectures include ResNet, VGG, and Inception. These networks are adept at understanding spatial hierarchies in images.
-    - **RNN/LSTM (Recurrent Neural Network/Long Short-Term Memory)**: Ideal for generating text based on the features extracted by the CNN. LSTMs are particularly good at remembering long-term dependencies, crucial for generating coherent and contextually relevant captions.
-
-2. **Transformer-Based Models**:
-    - **Vision Transformers (ViT)**: A newer approach for image processing that uses self-attention mechanisms, which can potentially capture more complex patterns in images than traditional CNNs.
-    - **BERT/GPT for Text**: These models have shown remarkable performance in natural language understanding and generation. They can be fine-tuned to generate medical captions based on the image features.
-
-3. **Hybrid Models**: Combining elements from both CNN-RNN architectures and Transformer-based models to leverage the strengths of both approaches.
-
-#### Framework Selection
-- **TensorFlow**: Known for its flexibility and extensive community support. It's widely used in both academia and industry.
-- **PyTorch**: Favored for its ease of use and dynamic computation graph, which can be more intuitive for building complex models.
-
-#### Other Architectural Considerations
-1. **Attention Mechanisms**: Especially in Transformer models, attention mechanisms help the model focus on relevant parts of the image when generating text.
-2. **Pre-trained Models**: Using models pre-trained on large datasets can significantly improve performance, especially when dealing with limited medical data.
-3. **Custom Layers/Modules**: Depending on your specific task, you might need to develop custom layers or modules to handle unique aspects of medical images or text.
-
-#### Challenges and Considerations
-1. **Complexity vs. Interpretability**: More complex models may offer better performance but can be harder to interpret, which is a crucial factor in medical applications.
-2. **Computational Resources**: Some of these models, especially large Transformers, require significant computational resources for training and inference.
-3. **Data Specificity**: Medical images and texts can be very specific and diverse. The chosen model must be capable of handling this diversity and complexity.
-4. **Fine-tuning and Hyperparameter Optimization**: These are critical to adapt the model to the specifics of medical data and achieve the best performance.
-
-#### Experimental Approach
-Given the complexity and sensitivity of medical image captioning, it's often necessary to experiment with multiple architectures, fine-tuning their configurations, and comparing their performance on validation datasets. This experimental phase is crucial to identify the most effective model for your specific dataset and use case.
 
 ### 5. Training the Model
 - **Loss Function**: Cross-entropy loss is common for such tasks.
