@@ -6,3 +6,4 @@ grayscale_images/
 normalized_images/
 data/csv/image_uri_and_captions.csv
 data/csv/image_uri_and_captions_100.csv
+text_processing/token_encoding.ipynb
