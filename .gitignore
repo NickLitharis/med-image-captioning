@@ -1,9 +1,14 @@
 data/csv/s2_full_figures_oa_nonroco_combined_medical_top4_public.csv
 data/json
-# images/
-# resized_images/
-# grayscale_images/
+images/
+resized_images/
+grayscale_images/
 # normalized_images/
 data/csv/image_uri_and_captions.csv
 data/csv/image_uri_and_captions_100.csv
 text_processing/token_encoding.ipynb
+data/pkl/values_extractor.ipynb
+data/text 
+data/image_features
+values.md
+vocab_size.txt
