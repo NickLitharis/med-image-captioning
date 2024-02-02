@@ -1,3 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.png filter=lfs diff=lfs merge=lfs -text
+# Auto detect files npy and perform LF normalization
+* text=auto
+*.npy filter=lfs diff=lfs merge=lfs -text
+# Auto detect files over 100MB and perform LF normalization
+* text=auto
+*.zip filter=lfs diff=lfs merge=lfs -text
+one_hot_captions.npy filter=lfs diff=lfs merge=lfs -text

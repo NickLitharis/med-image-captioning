@@ -12,3 +12,5 @@ data/text
 data/image_features
 values.md
 vocab_size.txt
+data/encoded_captions/
+model/model.ipynb
