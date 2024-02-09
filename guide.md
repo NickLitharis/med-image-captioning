@@ -1,4 +1,6 @@
-# This test will begin with 100 images and captions to develop and test the algorithm.
+# Project Guide: Medical Image Captioning
+
+## This test will begin with 100 images and captions to develop and test the algorithm.
 
 ### 1. Understanding the Task 
 - [x] **Objective**: Generating textual descriptions for medical images.
