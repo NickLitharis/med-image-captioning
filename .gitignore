@@ -3,7 +3,7 @@ data/json
 images/
 resized_images/
 grayscale_images/
-# normalized_images/
+normalized_images/
 data/csv/image_uri_and_captions.csv
 data/csv/image_uri_and_captions_100.csv
 text_processing/token_encoding.ipynb
@@ -13,4 +13,15 @@ data/image_features
 values.md
 vocab_size.txt
 data/encoded_captions/
-model/model.ipynb
+# model/model.ipynb
+normalized_images/
+resized_images/
+image_preprocessing/
+data/padded_captions/
+data/tagets/
+data/word_index/
+model/input_layer_analysis.ipynb
+model/targets.ipynb
+ergasia-eksaminou.md
+data/caption_features/caption_features.pkl
+guide-2.md
