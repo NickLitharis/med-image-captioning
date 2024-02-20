@@ -7,3 +7,7 @@
 # Auto detect pkl files and perform LF normalization
 * text=auto
 *.pkl filter=lfs diff=lfs merge=lfs -text
+
+# Auto detect files csv and perform LF normalization
+* text=auto
+*.csv filter=lfs diff=lfs merge=lfs -text
