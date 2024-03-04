@@ -5,3 +5,8 @@ data/csv/dataset.csv
 data/csv/dataset_clean.csv
 data/image_features/features.pkl
 data/caption_features/caption_features.pkl
+data/image_features
+data/csv/dataset.csv
+data/csv/dataset_clean.csv
+data/csv/dataset_20_random_samples.csv
+data/caption_features
