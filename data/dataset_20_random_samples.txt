@@ -1,0 +1,101 @@
+image_id,caption
+736c430bcbfd1e49e2065130cc4e3cb5ee91782f_2-Figure5-1.png,xray examination of the hands of case showing the radial finger defects
+ad4a099c0e9c0ee984943f2c9243fd5e901d63d0_4-Figure2-1.png,epsilon toxin treated gppm showing blistering of nuclear membrane ill defined chromatin and swollen structiireless cytoplasm em
+ec8b42199b1a1725c0a04bea0489a8c5bbb64e93_2-Figure1-1.png,original image from echocardigraphy image after zoom in and translate through program code based on basic echocardiogram images
+61f0cc1eef9cd2e27107d6081c337ed93a90bd81_3-Figure7-1.png,ctscan after weeks of osimertinib treatment showed that the lesion had shrunk
+06ff9e515f10c2a3873b121b6bc5e9898a016163_2-Figure1-1.png,radiolucent lesion occupying the body of the left mandible axial cone beam computed tomography image
+93f3b379da318b773620631901be72bcee710643_2-Figure1-1.png,longitudinal view of left shoulder on ultrasonography and periscapular area shows heterogenous fluid filled cystic mass
+d36d593ee2a4cd6b94e650eabe60a98c96274ae2_4-Figure9-1.png,anteroposterior radiograph showing fracture of the posterior aspect of the left acetabulum and dislocation of the right hip
+27203418d599e2311c234c150d12754e168fb7ac_2-Figure1-1.png,transvaginal ultrasound image of the right uterine artery pseudoaneuyrsm
+6742672d440339d28cdfd9b88a903a2a51a39c41_1-Figure2-1.png,radiograph taken in december
+fc7b731fb1f9d54a91fe1c3b85792cef83bb0989_7-Figure6-1.png,transverse sections cut
+f36957ae1ec5488c589b57e7a2a42bf627ee62b7_1-Figure2-1.png,postoperative xray graphy
+b49e742d4f7e1ffe8bd3837dec547c3753ba09a3_1-Figure3-1.png,endoscopic appearance of same area after four weeks treatment
+89f2aff5a7c4f86a30e173d74aea744fc549c27f_9-Figure19-1.png,transverse scan of grossly hydronephrotic kidney showing extensive calcification cx of the wall of the renal pelvis
+ec667d208f91de14044dd16bc6fa2882311e2c27_2-Figure2-1.png,sagittal precontrast and postcontrast
+367783a685c89bf27a4a5182c7d14df25af5badb_2-Figure1-1.png,echocardiographic images showing increased apical trabeculations with left ventricular noncompaction sagittal axis
+09e373877f5164562a73ca370b726e419defb38b_4-Figure3-1.png,mriscan axial susceptibility weighted imaging mriscan axial multiplanar reconstruction imaging mriscan axial turbo spin echo imaging
+27ef406c58ccd6518ff91bd64af178a082e6b683_2-Figure2-1.png,mriscan biliary tract multiple stenosis ischemic cholangiopathy
+ea625b7dec6ddd24f30cf17def0522daaa667b1c_3-Figure5-1.png,bone scan of the right calf personal photographic archive
+477ffe91112cc353d8d39cec04862f3af02ce81d_3-Figure2-1.png,xray showing asymmetry of clavicle due to right sided dislocation
+a471515ccee402837f6e878aa18ef3448e6e3b99_3-Figure3-1.png,magnetic resonance imaging findings of lumbar spine showed right foraminal stenosis due to herniated disc
+48525a3eea0d4ddc663b34991f2275928e06e7be_3-Figure4-1.png,excellent functional outcome of the shoulder figure radiograph at the month follow up
+ce7c084d28f7ffcaa30607054e664ca67a039220_4-Figure4-1.png,case transverse colon normal submucosal ganglions and moderately hypertrophied nerve fiber pgp
+d740a2756f3bf66893eb659e96b6e9e560de59fa_3-Figure2-1.png,ultrasonography us images in year old woman undergoing routine examination
+db3dac70c583e8d5da228d72e240e040db5b0abc_3-Figure4-1.png,anteroposterior and lateral radiograph of thoracic vertebra showed anterolateral decompression and fusion was performed on
+e1a230cc19c1af30eb66352132a4bd5041c00023_2-Figure1-1.png,abdominal computed tomography showing thick walled inflamed appendix with calcified fecalith edema of the cecum and dilated ileal loops
+6bdb8fea265f42defd4e89c811de2e1d3fe61b91_8-Figure7-1.png,case atypical neurofibroma shows nuclear pleomorphism hematoxylin and eosin immunostain shows nuclear reactivity
+d22d9352234fc7cadeffae66ad72eaee9de92926_2-Figure2-1.png,ctscan of the chest with area of pneumomediastinum arrow
+9de98e671ff5b3a647260b2cad4798e173034cb6_6-Figure3-1.png,ultrasonography of dfa pseudoaneurysms ctscan of dfa pseudoaneurysms ctscan angiography of dfa pseudoaneurysms
+a5d3ec003eb1621653b4259fe98142aaf1e663d0_2-Figure1-1.png,the ctscans of the past years march march april january
+0fd61891387719739da1fa17d1b62dd1732eeb3c_2-Figure1-1.png,abdominal computed tomography shows tumor in the segment vi of the liver
+327bdadfaf1683a9c4291529f9550dba861446ad_2-Figure1-1.png,ctscan showing right hydronephrosis and hydroureter and ectopic ureter opening into vagina
+1c5474cc0814be40f364b1593629c77fec072339_11-Figure7-1.png,axial magnetic resonance imaging showing pancreatic polypeptide producing tumors in the head of the pancreas
+d4c6ea735afd0a8e78352735e20adc0faf3ffa9a_1-Figure2-1.png,thoracic computed tomography scan
+62e91f793cdb81f157999972a854531deecc9447_2-Figure3-1.png,the follow up shoulder anteroposterior radiograph shows completely healed osteochondral fracture without displacement
+f689f34dbd11fe5e41bd6c22f63f1a6586673e09_2-Figure2-1.png,chest computed tomography shows sized spiculated nodule in right lower lung and multiple calcified mediastinal and right hilar lymph nodes
+d6d567b567d5396c51739fe10216c2f510d88bda_4-Figure9-1.png,case xray of hand april fig case xray right forefoot
+d0d5f6cf657b70b9e1f1b880b8305f78483a74fd_2-Figure1-1.png,non contrasted computed tomography ctscan of the abdomen and pelvis revealing partially calcified right psoas mass
+75d10613bf91419247686a65291dffe442565fa8_4-Figure2-1.png,baseline and post treatment computed tomography scans of one patient with nasopharyngeal carcinoma lung metastases
+827591f6494c1d30ff138025421504988749594e_3-Figure2-1.png,ctscan day ctscan revealed the emphysematous gangrene of peritoneum
+5f0765a294ea6d987719b63f2caf45d216c6d0d5_2-Figure2-1.png,left chest radiograph showing distal lead fracture arrow right acquisition at time of pacing showing distal lead fracture arrow
+e3983d6240917508e68609864bf50eded80104d5_3-Figure2-1.png,an example of sagittal plane ultrasound scan at of gm length in an individual with dmd and control participant
+f7dce9166ea79b21911e8af56a67feb6ef4d1d64_2-Figure2-1.png,endoscopic examination revealed spurt bleeding from the top of the submucosal tumor
+eaf0c1016f70e75fb1129dd9a929a49274e08ee0_3-Figure1-1.png,endoscopic view of the left ventricular endocardium demonstrating both the mapping catheter and ablation catheter separated by at least to
+09b4d5a7cab2a7b65c9329827b2981333716b9ec_4-Figure1-1.png,chest xray showing no foci in the lungs
+61dd77de4427b13a0f388b381a79fb275a2347ad_3-Figure2-1.png,computed tomography scan of the abdomen demonstrating pancreatic head enlargement arrow
+9960f2bafce3f4b364fb017ea11576cf28791d2e_1-Figure1-1.png,axial weigthed images bilateral hyperintense signal in the caudate and putamen
+9c995e756337b6e78951d91a0493c315e47e1c77_2-Figure1-1.png,cranial ctscan showing diffuse cranial vault thickening consistent with pd
+701783312a2c5ebad6b28df946573a502099e85a_3-Figure1-1.png,sagittal slice while flexed seating on lumbar levels and the skin markers above spinous processes are to see
+bd3e70b3a2b20ce5ebcd4f84324366bede0a8056_2-Figure1-1.png,method to measure bcm length thickness and area using ultrasound images bcm bulbocavernosus muscle
+d20787f446afb1339bbe414487d1c50646136092_2-Figure2-1.png,single photon emission tomography showing increase apical tracer uptake
+4b55a60fed504beda563376c0498fbc16272e067_1-Figure1-1.png,abdominal ctscan image suggest with simple cyst in liver segment
+0912227f824d75631221ddaa2eead775489f821a_2-Figure2-1.png,giant cystic lesion on the computed tomography scan
+076275e8b6a5177ff09c27227cd639ff8ca50fd7_2-Figure2-1.png,coronal slice illustrating the segmentation of the entorhinal cortex outlined right side and the hippocampus outlined left side
+ec0ff98504f0b50eb81e448682d641f4e98907d6_2-Figure2-1.png,ctscan of the abdomen showing presence of rightsided parietal hematoma
+2daeec9a169d64a068ea19f3df15a0776fbb8bfa_3-Figure2-1.png,magnetic resonance imaging with mapping demonstrating
+214fe9c60c22b252dad2b8feebaedde95241636b_7-Figure9-1.png,case chest radiograph seven weeks after treat
+8d5e17345456d497778938682c5e26bf1d2142f1_2-Figure2-1.png,recent chest computed tomography showed that the mass progressed rapidly and extended into the oesophageal lumen
+70abb6617eb651df369f2ef6f42c5f0571de3362_2-Figure1-1.png,ultrasonography showed splenomegaly with solid hypoechoic splenic mass fig color doppler ultrasound showed blood flow within the mass fig
+868ab674d8569c4c6bc6f2fe64c94230d93041f6_2-Figure4-1.png,reformatted ctscan showing volar ulnar and dorsal sides of wrist
+012539874c6dc13dfa675aace850cb0170304b3e_3-Figure3-1.png,mriscan images of the elastofibroma the same case in figure in the right subscapular area arrow
+4ddf555ba9d2215313026522bb0c6ea091b51056_2-Figure1-1.png,pre operative ctscan
+e895c2970502dc9d53cbc4837f9dd9819c00515a_2-Figure1-1.png,mrj scan of the abdomen showing retroperitoneal mass adhering to the abdominal aorta indicated by an arrow
+8ba25bff10c9ca69d5393963db19b26255c22b12_2-Figure1-1.png,gw fetus micromri images of the axial coronal and parasagittal planes
+c470cc5c28455d2dc57123c25df26c3873b8979f_3-Figure1-1.png,xray in the anteroposterior view on the first day of the injury under longitudinal traction
+eb3d584073455cc3b6e4421c29c2bbd84d63203a_5-Figure2-1.png,appearance of staghorn stones and minijfil on xray
+d598b9d3b45306a0a85800cb3e454293d8de2b55_2-Figure2-1.png,lobular consolidation at left basal segment of left lower lobe in chest ctscan
+08d532efbacbe8679250fa1873f057e6faefe074_2-Figure1-1.png,mriscan showing large septated mdc and compressed bladder and ctscan showing absent left kidney
+0ab1c09f76aa94f27562c25b9a5569d99dafaf65_2-Figure1-1.png,thorax computerized tomography ctscan revealing thrombi in the main pulmonary arteries left pulmonary artery right pulmonary artery
+81f751869438864c14b95592d5ad120c91893161_2-Figure1-1.png,left facial weakness figure brain mriscan contrast enhanced weighted image and weighted non contrast image disclosed normal cranial nerves
+a49570a4ee22cd15b5191b771289010d31efec18_5-Figure6-1.png,pre and post bevacizumab mriscans showing increased permeability and edema with resolution following therapy
+0aa5071a1b2c3eea63d4622c56469c64be12f1d5_2-Figure2-1.png,anterior posterior chest radiograph on day
+e819dae2cc173b6e345822393393c5089c4b8d17_3-Figure1-1.png,example of cyclin cyclin positive nuclear staining the immunoreactivity is located in the nuclei of barrett esophagus lesion
+fb52e66752aeb55cb03894baeaa5c954b2165c14_5-Figure2-1.png,transverse section of normal mouse days pregnant and mouse infected on day of pregnancy with campylobacters mag
+352086c81372b6299448e257b27f015b7dc1efc5_3-Figure1-1.png,enhanced ctscan of the pelvis showing large cystic structure
+0b0a574144b3bdd696099debbdb9734b6203defd_2-Figure2-1.png,mid sagittal reformatted ctscan images showing the fracture at the level
+e324512aa5308730f243486184e3a102d214cbb2_3-Figure3-1.png,cardiac imaging echocardiogram and magnetic resonance image showing hypertrabeculation of the left ventricle arrow
+1df867415556d3a477a9c42006fa25f925055bad_2-Figure3-1.png,representative slices from mriscan abdomen years post resection years post pr bilateral kidneys
+3c4249ea7dd20d66e5fddc5a2c7e7533e8b23fae_5-Figure7-1.png,positron emission tomography image demonstrating metastatic deposits in the left mandible right humerus pelvis and both proximal femora
+9b69864a3a563386ad6e281911ed89d3216e347e_2-Figure1-1.png,micro computed tomography image from spcl fiber mesh scaffold
+5eaaa8d4cb7cfd77efed3295e9907acb5e0541c6_10-Figure5-1.png,sagittal section of and day embryonic chick hearts modified masson trichrome ra right atrium avv atrioventricular valve rv right ventricle
+b9eca10153c9c4b084b631fd57bb278e2db60431_1-Figure1-1.png,brain ctscan figure brain ctscan
+e2858c7e0a82a73c7058730e1cb032e566d1f236_5-Figure2-1.png,indigo carmine chromoendoscopy delineating mucosal alteration in the sigmoid before staining and after staining
+5e84a940a19085b5379f48af7488200b58dada96_2-Figure1-2.png,xray latero lateral projection antero posterior projection that showed the corporal vertebral destruction localized at and
+a58d92ce56cfb59a8455b1c9cae1d88e36f6205e_2-Figure1-1.png,mriscan cis axial demonstrating pre pontine and ambient cistern lesion in mriscan post gadolinium in
+5070f3f363acc8be91ce4d5bab2851024c263e14_2-Figure2-1.png,anteroposterior and lateral radiograph of shoulder depicts soft tissue tumor
+9c9dcee46ed22cf17e7cbfd9661471366fc19d8f_5-Figure3-1.png,lateral radiograph of year old patient with severe thoracic lordosis thoracolumbar kyphosis and scoliosis six months after selective thoracolumbar fusion
+847de5a0e54f5f87c6a39603e8e64a7f73663e13_2-Figure1-1.png,left ctscan thorax showing right
+0d5508d46a666dfc59f1b4f854b49a738fc53577_9-Figure3-1.png,representative longitudinally extensive spinal cord mriscan lesions on weighted images from year old patient with os multiple sclerosis at relapse
+e80da5e663b3abc8e40cf0f53c5b8a1df94ce27e_4-Figure5-1.png,magnetic resonance imaging also revealed the anteriorly dislocated humeral head with rotator cuff injury and hill sachs lesion
+61a137f00a9476203d3c9347191a59942cf4d098_2-Figure1-1.png,transverse section through bovine vomeronasal organ caudal to the incisive papilla
+ac135d46bb806b63b9a21718b8888275cf8af617_3-Figure2-1.png,coronal mriscan images of so overaction right orbit repeated in up primary and down gaze
+cb0d3187b6861f881cbf50b4ee0a4c47569efc57_2-Figure1-1.png,abdominal ctscan of the patient showing space occupying lesion in the distal descending colon
+bd58bd106f50fdef297e7f17701a0a810ad6a47a_1-Figure3-1.png,chest xray from the transferring institution
+caf2f294cc10b9276165070097404a7cb1ec58b7_2-Figure1-1.png,computed tomography of the pancreatic tumor the tumor invaded the transverse colon and spleen
+f87c9eeded3049d29f1e8821f4937741f3170ea2_2-Figure1-1.png,contrast enhanced computed tomography heterogeneous pseudoaneurysm with thrombus in contact with the main trunk of the sma trunk arrow
+d80f7c6f3f0f863b847d0d097c9236df1cf4cf12_3-Figure6-1.png,transverse us scan of jejunal segments
+d7039b557b47d2b5d6d473f450362f1c8771585c_3-Figure2-1.png,computed tomography scan upper and magnetic resonance images lower showing solid vestibular schwannoma with extensive destruction arrow
+a35047e922dfed4b86bdb8eb8f8ac99c091b030a_1-Figure1-1.png,chest xray showing double density in the aortic arch mimicking the number arrow
+bd0c7994d56ad883ea607a7f1ca4e34e447ee3e9_1-Figure1-1.png,ctscan of the abdomen showing irregular wall thickening of the caecum
+665f96475a25637a3213a1077c57499b2250d73b_3-Figure4-1.png,endoscopic view of the lipoma arrows
